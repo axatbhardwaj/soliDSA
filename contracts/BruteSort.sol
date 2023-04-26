@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8;
 
+//Selction sort 
 contract Brutesort {
     //uint256[] a = [120112,555,33,1,404,55,777,99,928];
 
