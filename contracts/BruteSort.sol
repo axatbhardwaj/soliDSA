@@ -4,6 +4,7 @@ pragma solidity ^0.8;
 contract Brutesort {
     //uint256[] a = [120112,555,33,1,404,55,777,99,928];
 
+    // Did it for practice of swapping without third variable
     function swap(
         uint256 A,
         uint256 B
